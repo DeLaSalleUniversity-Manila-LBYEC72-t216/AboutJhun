@@ -26,4 +26,4 @@ int main()
 ```
 
 
-![](hello.PNG)
+![](hello.png)
