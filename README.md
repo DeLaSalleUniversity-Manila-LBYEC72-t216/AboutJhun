@@ -1,5 +1,8 @@
-# AboutJhun
+# HelloFromCabatuanM
 
+Hello world repo!
+
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -20,3 +23,7 @@ int main()
 	system("pause");
 	return 0;
 }
+```
+
+
+![](hello.PNG)
